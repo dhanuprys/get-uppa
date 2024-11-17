@@ -35,7 +35,7 @@ function App() {
           <TbWorld className="size-6" />
           Try on Web
         </a>
-        <button className="flex items-center gap-4 font-semibold text-sm md:text-lg bg-gradient-to-br px-6 py-2 md:py-3 rounded-full transition from-blue-900 via-blue-600 to-blue-500 hover:via-blue-900 hover:to-blue-900 text-white">
+        <button className="flex items-center gap-4 font-semibold text-sm md:text-lg bg-gradient-to-br px-4 md:px-6 py-2 md:py-3 rounded-full transition from-blue-900 via-blue-600 to-blue-500 hover:via-blue-900 hover:to-blue-900 text-white">
           <RiDownloadCloud2Line className="size-6" />
           Download ISO
         </button>
