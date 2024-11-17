@@ -25,12 +25,12 @@ function App() {
         </div>
       </div>
       <div>
-        <p className="text-center font-light text-slate-400 text-xl md:text-2xl">
+        <p className="text-center font-light text-slate-400 text-lg md:text-2xl">
           Rasakan ketika anda berada seperti di dalamnya.
         </p>
       </div>
       <div>
-      <div class="flex gap-2 md:gap-5 mt-10">
+      <div class="flex gap-2 md:gap-5 mt-5 md:mt-10">
         <a href="https://uppa.vercel.app" target="_blank" className="flex items-center gap-4 text-sm md:text-lg px-4 py-2 md:py-3 rounded-full text-white transition border-2 border-dashed hover:bg-slate-700">
           <TbWorld className="size-6" />
           Try on Web
