@@ -26,7 +26,7 @@ function App() {
       </div>
       <div>
         <p className="text-center font-light text-slate-400 text-lg md:text-2xl">
-          Rasakan ketika anda berada seperti di dalamnya.
+          Rasakan seperti anda berada di dalamnya.
         </p>
       </div>
       <div>
