@@ -15,11 +15,11 @@ function App() {
       <div>
         <h1 className="bg-clip-text text-transparent text-center bg-gradient-to-b from-slate-400 to-slate-950 text-6xl md:text-8xl font-semibold opacity-95 -mb-2">Feel Yourself Inside</h1>
         <div class="flex justify-center">
-          <span class="absolute mx-auto py-4 flex border w-fit bg-gradient-to-r opacity-50 blur-xl from-blue-700 via-blue-600 to-orange-600 bg-clip-text text-6xl md:text-8xl box-content font-semibold text-transparent text-center select-none">
+          <span class="absolute mx-auto py-4 flex border w-fit bg-gradient-to-b md:bg-gradient-to-r opacity-50 blur-xl from-blue-700 via-blue-600 to-orange-600 bg-clip-text text-6xl md:text-8xl box-content font-semibold text-transparent text-center select-none">
             Undiksha Mappa
           </span>
           <h1
-            class="relative top-0 w-fit h-auto py-4 justify-center flex bg-gradient-to-r items-center from-blue-700 via-blue-600 to-orange-600 bg-clip-text text-6xl md:text-8xl font-semibold text-transparent text-center select-auto">
+            class="relative top-0 w-fit h-auto py-4 justify-center flex bg-gradient-to-b md:bg-gradient-to-r items-center from-blue-700 via-blue-600 to-orange-600 bg-clip-text text-6xl md:text-8xl font-semibold text-transparent text-center select-auto">
             Undiksha Mappa
           </h1>
         </div>
