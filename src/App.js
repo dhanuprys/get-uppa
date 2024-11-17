@@ -8,7 +8,7 @@ function App() {
     <div className="fixed top-0 left-0 w-screen h-screen bg-slate-500 z-[-3] border-4"></div>
     <img className="fixed top-0 left-0 w-screen h-screen opacity-80 z-[-2] object-cover" src={MapBackground} />
     <div className="fixed top-0 left-0 w-screen h-screen opacity-[94%] bg-slate-950 z-[-1]"></div>
-    <div className="h-screen flex flex-col justify-center items-center space-y-8 p-5 md:p-0">
+    <div className="h-screen -translate-y-5 md:tranlsate-y-0 flex flex-col justify-center items-center space-y-8 p-5 md:p-0">
       <div>
         <div className="bg-clip-text text-transparent bg-gradient-to-br from-blue-300 to-orange-600 text-xl font-semibold border border-slate-700 px-4 py-1 rounded-full">SAS PROJECT</div>
       </div>
@@ -25,7 +25,7 @@ function App() {
         </div>
       </div>
       <div>
-        <p className="text-center font-light text-slate-400 text-lg md:text-2xl">
+        <p className="mx-4 md:mx-0 text-center font-light text-slate-400 text-lg md:text-2xl">
           Rasakan seperti anda berada di dalamnya.
         </p>
       </div>
